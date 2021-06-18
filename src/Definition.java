@@ -14,6 +14,9 @@ public class Definition {
     public static final int DIRECTION_DOWN = 4;
 
     public static int GAME_SPEED = 200;
+    public static int BUTTON_HEIGHT = Definition.WINDOW_HEIGHT/2;
+    public static int START_GAME_HEIGHT = 550;
+    public static int BUTTON_WIDTH = Definition.UNIT_SIZE * 5;
     public static final int SPEED_RISE = 10;
 
 
